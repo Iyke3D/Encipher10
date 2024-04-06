@@ -1,5 +1,5 @@
 # Encipher10  v1.0
-<p>Encipher10  v1.0 uses a symmetric encryption technique to encrypt and decrypt files. 
+<p>Encipher10  v1.0 uses a <strong>symmetric encryption </strong>technique to encrypt and decrypt files. 
 At it's best, Encipher10 uses one key to encrypt and decrypt files on the system. 
 It is completely written in python and currently supports windows operating system (other operating systems will be supported in the next version).
 Users can encrypt and decrypt files including:
@@ -25,6 +25,13 @@ can continue to run in the background and therefore, will obtain the same key th
 for decrypting it. This is the most important to have in mind when using the program
 
 3) More features will be added in the future</br></br>
+
+<b>Need to Know</b>
+<ol>
+  <li>MD5: 5f134a0e693c29bfac2790288d5536a8</li>
+  <li>SHA1: 905ad6a578c7c126cd4740a2aa4ab4ada796ee36</li>
+  <li>SHA256: c7285f5bf2d966e25d9a004926d3a547a918229bc781327a63e92e261a90cf9f</li>
+</ol></br></br>
 
 <b>USAGE</b></br></br>
 <strong>Step 1:</strong> Open the software by double clicking on the executable</br></br>
