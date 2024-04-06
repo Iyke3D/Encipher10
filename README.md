@@ -58,4 +58,5 @@ in the file path and encrypted section as shown below.</br></br>
 ![decrypted](https://github.com/Iyke3D/Encipher10/assets/118365903/8f9fdc62-98ad-4e20-9772-9c7314f17123)</br></br>
 
 <strong>Step 6:</strong> The file will be decrypted.</br></br>
+All Rights Reserved. <strong>Chugiapps Learning Ltd</strong> 2024. 
 </p>
