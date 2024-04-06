@@ -1,6 +1,7 @@
 # Encipher10  v1.0
 <p>Encipher10  v1.0 uses a symmetric encryption technique to encrypt and decrypt files. 
-At it's best, Encipher10 uses one key to encrypt and decrypt files on the system.
+At it's best, Encipher10 uses one key to encrypt and decrypt files on the system. 
+It is completely written in python and currently supports windows operating system (other operating systems will be supported in the next version).
 Users can encrypt and decrypt files including:
 
 1) doc/docx (Microsoft Word Files)
