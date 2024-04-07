@@ -18,15 +18,15 @@ Users can encrypt and decrypt files including:
 <b>WARNING</b>
 Before using Encipher, it is absolutely important to:</br></br>
 
-1) Backup the files that you want to encrypt first - I will not be held responsible for any file encrypted
+1) <strong>Backup</strong> the files that you want to encrypt first - I will not be held responsible for any file encrypted
 
-2) Do not close the program after a successful encrypting of a particular file. This ensures that the program
+2) <strong>Do not close the program after a successful encrypting of a particular file</strong>. This ensures that the program
 can continue to run in the background and therefore, will obtain the same key that was used to encrypt the file
 for decrypting it. This is the most important to have in mind when using the program
 
 3) More features will be added in the future</br></br>
 
-<b>Need to Know</b>
+<b>Need to Know - Encipher10 has the following hash values:</b>
 <ol>
   <li>MD5: 5f134a0e693c29bfac2790288d5536a8</li>
   <li>SHA1: 905ad6a578c7c126cd4740a2aa4ab4ada796ee36</li>
